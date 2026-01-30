@@ -1,0 +1,11 @@
+# Logic to "Generate" a Category
+# Allow the Players to select their song
+    # Add logic to deal with repeated submissions
+    # Use some sort of database to allow players to "search" for their song
+    # Redrect themto the waiting/voting screen if they already chosen  
+# Direct the players to the waiting screen
+    # Or voting if it already exist
+# Generate a playlist with all the songs on spotify/youtube and allow players to save it
+# Add points and history to the winner's profile
+# Make a profile page where players can see their past results, username and change password
+
